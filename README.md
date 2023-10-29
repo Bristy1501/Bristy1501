@@ -1,10 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on different kind of project<br>👯 I’m looking to collaborate on different company project<br>🤝 I’m looking for help to learn different stack<br>🌱 I’m currently learning Node.js<br>💬 Ask me about frontend development<br>⚡ Fun fact-I am more productive at night rather than day time
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=bristy1501&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=bristy1501&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bristy1501&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=bristy1501&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
